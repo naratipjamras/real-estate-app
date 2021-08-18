@@ -1,3 +1,5 @@
+### Laravel Real Estate App
+
 ### Functions: Core-Site Functions
 - Front-End Design (UI) – Core-Site, User Profile, Admin Panel and Blog
 - Register into System
@@ -53,5 +55,20 @@
 - Reply, Delete Inquiries.
 - Change Administrator’s Avatar
 - Add, Edit and Delete Admin
+
+## Installation
+
+- `git clone https://github.com/naratipjamras/movie-app.git`
+- `cd movie-app/`
+- `composer install`
+- `cp .env.example .env`
+- Update `.env` and set your database credentials
+- `php artisan key:generate`
+- `php artisan migrate`
+- `php artisan db:seed`
+- `npm install`
+- `npm run dev`
+- `php artisan serve`
+
 
 
