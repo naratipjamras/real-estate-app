@@ -58,8 +58,8 @@
 
 ## Installation
 
-- `git clone https://github.com/naratipjamras/movie-app.git`
-- `cd movie-app/`
+- `git clone https://github.com/naratipjamras/real-estate-app.git`
+- `cd naraproperty/`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
