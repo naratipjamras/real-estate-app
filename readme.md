@@ -1,3 +1,5 @@
+![alt text](https://github.com/naratipjamras/real-estate-app/blob/master/NARAAgency.PNG)
+
 ### Laravel Real Estate App
 
 ### Functions: Core-Site Functions
@@ -59,7 +61,7 @@
 ## Installation
 
 - `git clone https://github.com/naratipjamras/real-estate-app.git`
-- `cd naraproperty/`
+- `cd real-estate-app`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
